@@ -3,7 +3,7 @@ server:
   servlet:
     context-path: /elastic-query-web-client
 
-elastic-query-web-client:
+elastic-query-web-client2:
   webclient:
     connect-timeout-ms: 10000
     read-timeout-ms: 10000
