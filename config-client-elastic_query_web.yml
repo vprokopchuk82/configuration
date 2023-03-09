@@ -1,7 +1,7 @@
 server:
   port: 8184
   servlet:
-    context-path: /elastic-query-web-client
+    context-path: /elastic-query-web-client2
 
 elastic-query-web-client2:
   webclient:
